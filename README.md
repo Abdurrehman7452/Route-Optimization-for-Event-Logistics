@@ -1,4 +1,4 @@
-# Route-Optimization-for-Event-Logistics
+# Route Optimization for Event Logistics
 
 This project uses advanced data structures and algorithms to determine the quickest route through various stops, considering both road and air travel constraints.
 
